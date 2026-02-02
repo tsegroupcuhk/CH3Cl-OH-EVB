@@ -1,0 +1,51 @@
+PSF EXT CMAP CHEQ DRUDE XPLOR
+
+         2 !NTITLE
+* NEW LABELS                                                                    
+*  DATE:     5/ 1/24     11:40:21      CREATED BY USER: yutong                  
+
+         7 !NATOM
+         1 MEC      1        MEC      H        H1MC     0.138000       1.00800           0   0.00000       0.00000    
+         2 MEC      1        MEC      C        C3MC      1.87840       11.6100           0  -1.53700       1.28000    
+         3 MEC      1        MEC      DC       DRUD     -2.15140      0.400000           0   0.00000       0.00000    
+         4 MEC      1        MEC      H1       H1MC     0.138000       1.00800           0   0.00000       0.00000    
+         5 MEC      1        MEC      H2       H1MC     0.138000       1.00800           0   0.00000       0.00000    
+         6 MEC      1        MEC      CL       CLMC      2.30510       35.0500           0  -1.98700       1.28000    
+         7 MEC      1        MEC      DCL      DRUD     -2.44610      0.400000           0   0.00000       0.00000    
+
+         6 !NBOND: bonds
+         2         3         6         7         2         1         2         4
+         2         5         2         6
+
+         6 !NTHETA: angles
+         1         2         4         1         2         5         1         2         6
+         4         2         5         4         2         6         5         2         6
+
+         0 !NPHI: dihedrals
+
+
+         0 !NIMPHI: impropers
+
+
+         0 !NDON: donors
+
+
+         0 !NACC: acceptors
+
+
+         0 !NNB
+
+         0         0         0         0         0         0         0
+
+         1         0 !NGRP NST2
+         0         1         0
+
+         1 !MOLNT
+         1         1         1         1         1         1         1
+
+         0         0 !NUMLP NUMLPH
+
+         0 !NUMANISO
+
+         0 !NCRTERM: cross-terms
+

@@ -1,0 +1,5 @@
+<ForceField>
+ <SN2OffDiagForce>
+    <Pair type1="12" type2="15" type3="16" D="ooofff1" A="ooofff2" d0="ooofff3" a="ooofff4" b="ooofff5" c="ooofff6"/>
+ </SN2OffDiagForce>
+</ForceField>
