@@ -1,14 +1,14 @@
 # md_simulations
 
 This directory contains representative molecular dynamics (MD) setups used in the paper. 
-They are organized by the physical quantity being computed (RDF, reactive PMFs, solvation PMFs) and by system type (bulk, slab, droplet).
+They are organized by the physical quantity being computed (RDF, reactive PMFs, solvation PMFs) and by system type (bulk, slab, droplet). The folder for solvation in slab systems is omitted here, since its similarity to `solvation_droplet`. 
 
 ```text
 md_simulations/
-├── rdf/              # RDF calculation for O–O* distances
-├── reactive_bulk/    # EVB reaction in bulk water (128w, 500w, 1000w)
-├── reactive_slab/    # EVB reaction at the air–water interface (various z, ECN)
-└── solvation_droplet/# Solvation and surface affinity of CH3Cl and OHR in droplets
+├── rdf/               # RDF calculation for O–O* distances
+├── reactive_bulk/     # EVB reaction in bulk water (128w, 500w, 1000w)
+├── reactive_slab/     # EVB reaction at the air–water interface (various z, ECN)
+└── solvation_droplet/ # Solvation and surface affinity of CH3Cl and OHR in droplets
 ```
 
 Each subdirectory contains:
@@ -27,3 +27,4 @@ For a high-level overview of what each subdirectory corresponds to in the paper,
 - `md_simulations/reactive_slab/README`
 - `md_simulations/solvation_droplet/README`
 - `md_simulations/rdf/README`
+
