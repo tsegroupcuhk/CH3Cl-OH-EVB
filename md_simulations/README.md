@@ -1,7 +1,7 @@
 # md_simulations
 
 This directory contains representative molecular dynamics (MD) setups used in the paper. 
-They are organized by the physical quantity being computed (RDF, reactive PMFs, solvation PMFs) and by system type (bulk, slab, droplet). The folder for solvation in slab systems is omitted here, since its similarity to `solvation_droplet`. 
+They are organized by the physical quantity being computed (RDF, reactive PMFs, solvation PMFs) and by system type (bulk, slab, droplet). The folder for solvation in slab systems is omitted here, since its similarity to `solvation_droplet`. The corresponding slab solvation free-energy profiles are provided in: `../data/solvation_pmfs/*_slab_*w.dat`.
 
 ```text
 md_simulations/
