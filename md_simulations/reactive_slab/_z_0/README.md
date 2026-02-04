@@ -3,4 +3,4 @@ with the reaction center constrained at z = 0 Å.
 
 The corresponding free-energy profile is stored in:
 
-  ../../data/reactive_pmfs/pmf_slab_z_0.dat
+  `../../data/reactive_pmfs/pmf_slab_z_0.dat`
