@@ -12,7 +12,7 @@ reactive_slab/
 └── z_-6/         # Full simulation setup at a given z (example, similar to bulk layout)
 ```
 
-The folders with a leading underscore (_z_*, _ecn_z_*) primarily contain README files that describe how the data in `data/reactive_pmfs/` map to the various interfacial positions and effective coordination numbers. 
+The folders with a leading underscore (`_z_*`, `_ecn_z_*`) primarily contain README files that describe how the data in `data/reactive_pmfs/` map to the various interfacial positions and effective coordination numbers. 
 The **full simulation setups** are contained in:
 
 - `z_-6/`
